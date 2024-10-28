@@ -1,1 +1,27 @@
-
+"guide": [
+  {
+    "order": 1,
+    "text": "Lorem Ipsum"
+  },
+  {
+    "order": 2,
+    "text":"Lorem Ipsum"
+  }
+],
+"device":[
+  {
+    "id": "PS5",
+    "title": "Playstation 5",
+    "description": "Lorem Ipsum"
+  },
+  {
+    "id": "XBOX_One",
+    "title": "XBOX One",
+    "description": "Lorem Ipsum"
+  },
+  {
+    "id": "PC",
+    "title": "PC Gaming",
+    "description": "Lorem Ipsum"
+  }
+]
