@@ -1,4 +1,6 @@
-"guide": [
+"guide": {
+  "message": "success",
+  "data":[
   {
     "order": 1,
     "text": "Lorem Ipsum"
@@ -7,8 +9,11 @@
     "order": 2,
     "text":"Lorem Ipsum"
   }
-],
-"device":[
+]
+},
+"device":{
+  "message":"success",
+  "data":[
   {
     "id": "PS5",
     "title": "Playstation 5",
@@ -25,3 +30,4 @@
     "description": "Lorem Ipsum"
   }
 ]
+}
