@@ -1,35 +1,35 @@
 {
-"guide": {
-  "message": "success",
-  "data":[
-    {
-      "order": 1,
-      "text": "Lorem Ipsum"
-    },
-    {
-      "order": 2,
-      "text":"Lorem Ipsum"
-    }
-  ]
-},
-"device":{
-  "message":"success",
-  "data":[
-    {
-      "id": "PS5",
-      "title": "Playstation 5",
-      "description": "Lorem Ipsum"
-    },
-    {
-      "id": "XBOX_One",
-      "title": "XBOX One",
-      "description": "Lorem Ipsum"
-    },
-    {
-      "id": "PC",
-      "title": "PC Gaming",
-      "description": "Lorem Ipsum"
-    }
-  ]
-}
+  "guide": {
+    "message": "success",
+    "data":[
+      {
+        "order": 1,
+        "text": "Lorem Ipsum"
+      },
+      {
+        "order": 2,
+        "text":"Lorem Ipsum"
+      }
+    ]
+  },
+  "device":{
+    "message":"success",
+    "data":[
+      {
+        "id": "PS5",
+        "title": "Playstation 5",
+        "description": "Lorem Ipsum"
+      },
+      {
+        "id": "XBOX_One",
+        "title": "XBOX One",
+        "description": "Lorem Ipsum"
+      },
+      {
+        "id": "PC",
+        "title": "PC Gaming",
+        "description": "Lorem Ipsum"
+      }
+    ]  
+  }
 }
