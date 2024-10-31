@@ -18,17 +18,20 @@
       {
         "id": "PS5",
         "title": "Playstation 5",
-        "description": "Lorem Ipsum"
+        "description": "PlayStation 5 (PS5) adalah konsol permainan generasi terbaru dari Sony yang dirilis pada tahun 2020. Ditenagai oleh prosesor AMD Zen 2 dan GPU RDNA 2, PS5 menghadirkan performa yang jauh lebih cepat dan grafis lebih realistis dibandingkan generasi sebelumnya, PlayStation 4. Konsol ini mendukung resolusi hingga 8K, teknologi ray tracing, dan memiliki kecepatan muatan yang jauh lebih singkat berkat SSD kustom.",
+        "image":"https://awsimages.detik.net.id/visual/2024/09/11/playstation-5-pro_169.jpeg?w=650"
       },
       {
         "id": "XBOX_One",
         "title": "XBOX One",
-        "description": "Lorem Ipsum"
+        "description": "Xbox One adalah konsol permainan video generasi kedelapan yang dikembangkan oleh Microsoft, dirilis pertama kali pada November 2013. Xbox One membawa peningkatan signifikan dari pendahulunya, Xbox 360, dengan menawarkan kemampuan pemrosesan yang lebih kuat, peningkatan grafis, serta layanan hiburan yang lebih luas. Konsol ini memiliki spesifikasi perangkat keras yang cukup canggih untuk masanya, termasuk prosesor AMD Jaguar 8-core dan GPU berbasis AMD Radeon yang mampu memberikan pengalaman gaming berkualitas tinggi.",
+        "image":"https://assets.xboxservices.com/assets/bc/40/bc40fdf3-85a6-4c36-af92-dca2d36fc7e5.png?n=642227_Hero-Gallery-0_A1_857x676.png"
       },
       {
         "id": "PC",
         "title": "PC Gaming",
-        "description": "Lorem Ipsum"
+        "description": "Lorem Ipsum",
+        "image": "https://m.media-amazon.com/images/I/81+0uGCiqYL.jpg"
       }
     ]  
   }
